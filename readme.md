@@ -1,7 +1,7 @@
 
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1> 💫 About Me (ProDev)  </h1>
+<h1> 💫 About Me  </h1>
 
 <h3>
   🦄Senior 🧠AI Engineer | with ⏳5+ Years of Experience in AI | ⚡20+ Projects Developed
