@@ -7,7 +7,6 @@
   I am a talented AI Engineer with over a decade of experience, starting with Python at age 10. Developed a proprietary predictive analytics web application at 16. Specializes in AI, ML, and cloud architectures for enterprise solutions, with particular expertise     in building and deploying complex AI agents. Extensive experience with LLMs, GenAI, and cloud-based AI applications across multiple companies and enterprises.
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/prodev1119/prodev1119/auxiliary/others/colorful_line.gif"></a>
-<br/>
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
