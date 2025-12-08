@@ -66,15 +66,6 @@ Built CV + robotics ML systems for autonomous operation of heavy construction ma
 
 ---
 
-## 📈 **GitHub Stats**
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=takeshi1219&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeshi1219&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 💬 **Let's Connect**
 - 🔗 **LinkedIn:** [your-link]  
 - 🌐 **Portfolio:** [your-portfolio]  
