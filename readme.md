@@ -2,7 +2,7 @@
 ### **AI Developer & Team Lead | GenAI • NLP/LLM/RAG • Computer Vision • Voice AI • Cloud • MLOps**
 
 I build scalable, production-grade AI systems used across fintech, e-commerce, healthcare, and SaaS platforms.  
-With 8+ years of experience in Japan and the US, I specialize in **LLMs, multilingual NLP (JP/EN/KR), predictive analytics, autonomous systems, and cloud-native AI infrastructure**.
+With 10+ years of experience in Japan and the US, I specialize in **LLMs, multilingual NLP (JP/EN/KR), predictive analytics, autonomous systems, and cloud-native AI infrastructure**.
 
 ---
 
