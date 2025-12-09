@@ -16,25 +16,6 @@ With 10+ years of experience in Japan and the US, I specialize in **LLMs, multil
 
 ---
 
-## 🧑‍💻 **Tech Stack**
-
-### **AI / Machine Learning**
-`PyTorch` · `TensorFlow` · `JAX` · `Transformers` · `LangChain` · `LLM Fine-tuning`  
-`RAG` · `Vector DBs` (Pinecone, Weaviate) · `MLflow` · `Kubeflow`
-
-### **Backend & Data**
-`Python` · `Go` · `Node.js` · `FastAPI` · `GraphQL` · `gRPC`  
-`PostgreSQL` · `MongoDB` · `Redis` · `Elasticsearch` · `Apache Kafka` · `Airflow` · `n8n`
-
-### **Cloud / DevOps**
-`AWS (Certified)` · `GCP` · `Docker` · `Kubernetes`  
-`Terraform` · `GitHub Actions` · `CI/CD` · `Observability`
-
-### **Frontend (when needed)**
-`React` · `Next.js` · `Vue.js` · `TypeScript` · `Tailwind CSS`
-
----
-
 Feel free to reach out for collaboration, consulting, or building AI products together!
 
 ---
