@@ -50,22 +50,6 @@ With 8+ years of experience in Japan and the US, I specialize in **LLMs, multili
 
 ---
 
-## 🧑‍🏫 **Employment History**
-
-### **AI / Backend Team Lead — SBWorks (Tokyo, Japan)**  
-*2024 – Present · Part-time · Hybrid*  
-Leading AI/data team delivering multilingual NLP systems, RAG pipelines, cloud-native platforms, and automation solutions for Japanese businesses.
-
-### **Senior Software / ML Engineer — Seeq Corporation (US, Remote)**  
-*2020 – 2023 · Full-time*  
-Developed industrial analytics & AI pipelines for anomaly detection and predictive maintenance in global manufacturing and energy sectors.
-
-### **AI / ML Engineer — DeepX (Tokyo, Japan)**  
-*2017 – 2020 · Full-time · Onsite*  
-Built CV + robotics ML systems for autonomous operation of heavy construction machinery.
-
----
-
 ## 💬 **Let's Connect**
 - 🔗 **LinkedIn:** [your-link]  
 - 🌐 **Portfolio:** [your-portfolio]  
