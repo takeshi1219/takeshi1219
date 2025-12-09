@@ -35,11 +35,6 @@ With 8+ years of experience in Japan and the US, I specialize in **LLMs, multili
 
 ---
 
-## 💬 **Let's Connect**
-- 🔗 **LinkedIn:** [your-link]  
-- 🌐 **Portfolio:** [your-portfolio]  
-- 📧 **Email:** your@email.com  
-
 Feel free to reach out for collaboration, consulting, or building AI products together!
 
 ---
