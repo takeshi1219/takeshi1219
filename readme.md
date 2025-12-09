@@ -16,21 +16,6 @@ With 8+ years of experience in Japan and the US, I specialize in **LLMs, multili
 
 ---
 
-## 🔥 **Highlighted Projects**
-- 📄 **LLM-powered document automation**  
-  Designed a high-throughput system for a US fintech startup — processing **500K+ documents/month** with **96% accuracy**.
-
-- 🛒 **Predictive analytics for e-commerce**  
-  Built a customer-retention ML model for a Japanese platform, improving retention by **38%**.
-
-- 🌐 **Multilingual NLP (JP/EN/KR)**  
-  Delivered advanced cross-lingual extraction + classification for a US healthcare tech company.
-
-- ⚡ **Real-time anomaly detection**  
-  Architected an event-processing pipeline handling **200K+ events/day**, preventing system failures.
-
----
-
 ## 🧑‍💻 **Tech Stack**
 
 ### **AI / Machine Learning**
