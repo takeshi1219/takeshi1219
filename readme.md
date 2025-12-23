@@ -1,18 +1,7 @@
 # 👋 Hi, I'm **Takeshi Yamamoto**
-### **AI Developer & Team Lead | GenAI • NLP/LLM/RAG • Computer Vision • Voice AI • Cloud • MLOps**
+### **Senior Full-Stack & AI Engineer**
 
-I build scalable, production-grade AI systems used across fintech, e-commerce, healthcare, and SaaS platforms.  
-With 10+ years of experience in Japan and the US, I specialize in **LLMs, multilingual NLP (JP/EN/KR), predictive analytics, autonomous systems, and cloud-native AI infrastructure**.
-
----
-
-## 🚀 **About Me**
-- 🇯🇵 Japan-based AI Engineer & Team Lead  
-- 🌏 Experience across **Japanese startups**, **US SaaS companies**, and **hybrid tech consulting**  
-- 🧠 Focused on **GenAI, LLM fine-tuning, RAG, VoAI, and Computer Vision**  
-- ☁️ Strong in **AWS, GCP, Kubernetes, Docker, Terraform, CI/CD**  
-- 🧩 End-to-end engineer: **data → model → backend → deployment → monitoring**  
-- 🔤 Fluent in **Japanese & English** (multilingual ML is a core specialty)
+Highly motivated **Senior Software Engineer** with **10+ years of professional experience**, including 8 years in front-end development and 5 years in back-end development. Proven track record in building high-quality web and mobile applications from scratch, particularly within startups and freelance environments. Recently expanded into AI/ML engineering, building backend ML/analytics pipelines and leading multilingual NLP/RAG solutions. Equally comfortable working in Japanese and English environments, collaborating with cross-cultural teams across the globe.**.
 
 ---
 
